@@ -1,0 +1,8 @@
+.btn {
+  background-color: #be4d25;
+  border: none;
+  width: 250px;
+  /* capitalize the first letter */
+  text-transform: capitalize;
+  font-size: 15px;
+}
